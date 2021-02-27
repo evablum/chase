@@ -1,0 +1,52 @@
+body. html {
+	margin: 0;
+}
+
+.container {
+	width: 90%;
+	margin: auto;
+}
+
+.content-area{
+	width: 100%;
+	position: relative;
+	top: 450px;
+	background: #ddd;
+	height: 1500px;
+}
+
+.downloads_body {
+	color: #fff;
+	opacity: inherit;
+	z-index: 2;
+	background-color: #F06C17;
+	font-size: 25px;
+}
+.downloads_body a{
+	color: #fff;
+	text-decoration: none;
+}
+.downloads_body:hover a{
+	color: #F06C17;
+	background-color:#fff;
+	transition: 0.25s all;
+}
+
+.Discord_body {
+	color: #fff;
+	opacity: inherit;
+	z-index: 2;
+	background-color: #7289da;
+	font-size: 25px;
+}
+.Discord_body a{
+	color: #fff;
+	text-decoration: none;
+}
+
+footer{
+	color: #fff;
+	background-color: #262626;
+	font-size: 15px;
+	padding: 30px;
+}
