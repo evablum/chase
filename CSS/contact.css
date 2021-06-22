@@ -6,13 +6,13 @@
 
 html{
 	font-size: 10px;
-	background-color: #5A5E6B;
+	background-color: #B0C4DE;
 }
 
 section{
 	padding: 10rem 0;
-	background-color: #5A5E6B;
-	color: #fff;
+	background-color: #B0C4DE;
+	color: #000000;
 }
 
 .heading{
@@ -21,7 +21,7 @@ section{
 	margin-right: -3px;
 	margin-bottom: 5rem;
 	text-align: center;
-	color: #fff;
+	color: #000000;
 	position: relative;
 }
 .heading:after{
@@ -31,7 +31,7 @@ section{
 	left: 50%;
 	transform: translateX(-50%);
 	height: 4px;
-	width: 150px;
+	width: 155px;
 	background-color: #fff44f;
 	border-radius: 2px;
 }
@@ -131,7 +131,7 @@ section{
 }
 
 footer{
-	color: #fff;
+	color: #000000;
 	font-size: 15px;
 	padding: 10px;
 }

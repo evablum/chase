@@ -5,7 +5,7 @@
 }
 
 body{
-	background-color: #5A5E6B;
+	background-color: #B0C4DE;
 }
 
 .inner{
@@ -14,7 +14,7 @@ body{
 
 .header{
 	text-align: center;
-	color: #fff;
+	color: #000000;
 	padding: 1rem;
 	position: relative;
 }
@@ -41,7 +41,7 @@ body{
 
 .skill-box{
 	padding: 1rem;
-	color: #ddd;
+	color: #000000;
 	cursor: pointer;
 }
 .skill-title{
@@ -81,7 +81,7 @@ body{
 	transition: 0.5s;
 }
 .skill-title h3{
-	color: #fff;
+	color: #000000;
 	margin-top: 0.5rem;
 }
 
@@ -104,7 +104,7 @@ body{
 }
 
 footer{
-	color: #fff;
+	color: #000000;
 	font-size: 15px;
 	padding: 90px;
 }

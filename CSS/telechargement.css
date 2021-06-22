@@ -1,11 +1,11 @@
 body{
-	background-color: #5A5E6B;
-	color: #fff;
+	background-color: #B0C4DE;
+	color: #000000;
 }
 
 .header{
 	text-align: center;
-	color: #fff;
+	color: #000000;
 	padding: 0.5px;
 	position: relative;
 }
@@ -16,7 +16,7 @@ body{
 	left: 50%;
 	transform: translateX(-50%);
 	height: 4px;
-	width: 100px;
+	width: 110px;
 	background-color: #fff44f;
 	border-radius: 2px;
 }
@@ -29,7 +29,7 @@ body{
 
 .button{
 	padding: 0.5rem 2rem;
-	background-color: #fff;
+	background-color: #ff6a19;
 	border: none;
 	border-radius: 0.5rem;
 	text-transform: uppercase;
@@ -43,7 +43,7 @@ body{
 	transform: translateY(-2px);
 	box-shadow: 0.5rem 0.5rem 2rem rgba(0, 0, 0, 0.2);
 	background-color: #ff6a19;
-	color: #5A5E6B;
+	color: #fff;
 }
 .button:active{
 	transform: translateY(0);
@@ -51,7 +51,7 @@ body{
 	background-color: red;
 }
 footer{
-	color: #fff;
+	color: #000000;
 	font-size: 15px;
 	padding: 10px;
 	line-height: 300px;
